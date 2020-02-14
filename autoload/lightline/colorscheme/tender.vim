@@ -4,11 +4,7 @@
 " URL: https://github/com/jacoborus/tender.vim
 " Author: Jacobo Tabernero http://jacoborus.codes
 " License: MIT
-<<<<<<< HEAD
-" Last Change: 2020/04/24 16:58
-=======
-" Last Change: 2020/02/14 15:20
->>>>>>> Improve a little
+" Last Change: 2020/02/14 15:39
 " ============================================================
 
 let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {} }
